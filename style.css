@@ -8,11 +8,13 @@
   src: url("product-sans.ttf");
 }
 
-*,
-*:before,
-*:after {
+*, *:before, *:after {
   padding: 0;
   margin: 0;
+}
+
+html {
+  overflow: hidden;
 }
 
 body {
@@ -21,6 +23,7 @@ body {
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
+  overflow: hidden;
 }
 
 .hero {
@@ -32,7 +35,6 @@ body {
   justify-content: center;
   align-items: center;
   font-size: 20px;
-  overflow: hidden;
 }
 
 .top-nav {
