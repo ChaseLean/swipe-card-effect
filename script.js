@@ -4,10 +4,23 @@ var tinderContainer = document.querySelector('.tinder');
 var cardDeck = document.querySelector('.tinder--cards');
 var allCards = Array.from(document.querySelectorAll('.tinder--card'));
 var back = document.getElementById('back');
+var shuffle = document.getElementById('shuffle');
 var next = document.getElementById('next');
 var counter = document.getElementById('counter');
 
 var count = 0;
+
+function readStringFromFileAtPath(pathOfFileToReadFrom) {
+  var request = new XMLHttpRequest();
+  request.open("GET", pathOfFileToReadFrom, false)
+  request.send(null);
+  var returnValue = request.responseText;
+
+  return returnValue;
+}
+
+var csv = readStringFromFileAtPath("output.csv");
+var data = $.csv.toObjects(csv);
 
 class cardHistory {
   constructor(allCards) {
@@ -28,6 +41,36 @@ class cardHistory {
       this.data.push(deck);
     }
   }
+}
+
+function addCardtoDeck(container, content) {
+  var newCard = document.createElement("div");
+  newCard.className = "tinder--card";
+
+  var innerCard = document.createElement("div");
+  innerCard.className = "tinder--card--inner";
+
+  var cardFront = document.createElement("div");
+  cardFront.className = "tinder--card--front";
+
+  var cardBack = document.createElement("div");
+  cardBack.className = "tinder--card--back";
+
+  var string = "";
+  for(const key in content) {
+    if(key !== "Meaning"){
+      string += content[key] + "<br>";
+    }
+  }
+
+  cardFront.innerHTML = content["Meaning"];
+  cardBack.innerHTML = string;
+  
+  container.append(newCard);
+  newCard.append(innerCard);
+  innerCard.append(cardFront);
+  innerCard.append(cardBack);
+  allCards.push(newCard);
 }
 
 function initCards() {
@@ -75,7 +118,22 @@ function shiftCards() {
 function setCard(card, index) {
   card.style.zIndex = allCards.length - index;
   card.style.opacity = index < 5 ? Math.min(1, 1 - (index - 1) / 5) : 0;
-  card.style.transform = 'scale(' + (20 - index) / 20 + ') translateY(-' + Math.min(120, 25 * index) + 'px)';
+  card.style.transform = 'scale(' + Math.max(0.75, 1 - 0.05 * index) + ') translateY(-' + Math.min(120, 25 * index) + 'px)';
+}
+
+function shuffleArray(array) {
+  for (var i = array.length - 1; i > 0; i--) {
+      var j = i;
+      while(j == i) var j = Math.floor(Math.random() * (i + 1));
+      var temp = array[i];
+      array[i] = array[j];
+      array[j] = temp;
+  }
+}
+
+function shuffleCards() {
+  shuffleArray(allCards);
+  setTimeout(initCards, 100);
 }
 
 function detectTouch() {
@@ -130,46 +188,23 @@ function detectTouch() {
   });
 }
 
-function createButtonListener(shift) {
-  return function (event) {
-    if (!allCards.length) return false;
-    if (shift) nextCard();
-    else prevCard();
-    event.preventDefault();
-  };
-}
-
 document.addEventListener("keydown", function(event) {
     if (event.key == "ArrowRight") nextCard();
     else if (event.key == "ArrowLeft") prevCard();
     else if (event.key == "ArrowDown" || event.key == "ArrowUp") rotateCard(allCards[0]);
 });
 
-setTimeout(initCards, 10)
+for(const word of data){
+  if(word["Meaning"] != ""){
+    addCardtoDeck(cardDeck, word);
+  }
+}
+
+shuffleCards();
 detectTouch();
 
+back.onclick = prevCard;
+shuffle.onclick = shuffleCards;
+next.onclick = nextCard;
+
 var hist = new cardHistory(allCards.slice());
-var removeListener = createButtonListener(false);
-var heartListener = createButtonListener(true);
-
-back.addEventListener('click', removeListener);
-next.addEventListener('click', heartListener);
-
-
-
-
-
-
-
-
-
-// function addCardtoDeck(container, content) {
-//   var newCard = document.createElement("div");
-//   newCard.className = "tinder--card";
-//   var text = document.createElement("h3");
-//   text.innerHTML = content;
-  
-//   newCard.append(text);
-//   container.append(newCard);
-//   allCards.push(newCard);
-// }
