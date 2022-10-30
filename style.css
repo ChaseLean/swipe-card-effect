@@ -16,7 +16,6 @@
 }
 
 body {
-  overflow: hidden;
   background-color: var(--darkblue);
   font-family: "Product Sans";
   -webkit-user-select: none;
@@ -33,6 +32,7 @@ body {
   justify-content: center;
   align-items: center;
   font-size: 20px;
+  overflow: hidden;
 }
 
 .top-nav {
