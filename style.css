@@ -75,7 +75,7 @@ body {
 }
 
 .tinder--card--inner {
-  transition: transform 0.8s;
+  transition: transform 0.5s;
   position: relative;
   width: 100%;
   height: 100%;

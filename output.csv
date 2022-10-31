@@ -1,109 +1,35 @@
-Meaning,Present,Past,PastParticiple
-to bake,backen,backte,gebacken
-to command,befehlen,befahl,befohlen
-to begin,beginnen,begann,begonnen
-to bite,beißen,biss,gebissen
-to offer,bieten,bot,geboten
-to bind,binden,band,gebunden
-to request,bitten,bat,gebeten
-to blow,blasen,blies,geblasen
-to stay,bleiben,blieb,geblieben
-to fry,braten,briet,gebraten
-to break,brechen,brach,gebrochen
-to burn,brennen,brannte,gebrannt
-to bring,bringen,brachte,gebracht
-to think,denken,dachte,gedacht
-to recommend,empfehlen,empfahl,empfohlen
-to be startled,erschrecken,erschrak,erschrocken
-to eat,essen,aß,gegessen
-"to drive, to go",fahren,fuhr,gefahren
-to fall,fallen,fiel,gefallen
-to find,finden,fand,gefunden
-to fly,fliegen,flog,geflogen
-to flee,fliehen,floh,geflohen
-to flow,fließen,floss,geflossen
-to eat (of animals),fressen,fraß,gefressen
-to freeze,frieren,fror,gefroren
-to give birth,gebären,gebar,geboren
-to give,geben,gab,gegeben
-"to walk, to go",gehen,ging,gegangen
-to enjoy,genießen,genoss,genossen
-to occur,geschehen,geschah,geschehen
-to win,gewinnen,gewann,gewonnen
-to pour,gießen,goss,gegossen
-to dig,graben,grub,gegraben
-to seize,greifen,griff,gegriffen
-to have,haben,hatte,gehabt
-to hold,halten,hielt,gehalten
-to be hanging,hängen,hing,gehangen
-to lift,heben,hob,gehoben
-to be called,heißen,hieß,geheißen
-to help,helfen,half,geholfen
-to know,kennen,kannte,gekannt
-to sound,klingen,klang,geklungen
-to come,kommen,kam,gekommen
-to load,laden,lud,geladen
-to let,lassen,ließ,gelassen
-to tell a lie,lügen,log,gelogen
-to avoid,meiden,mied,gemieden
-to measure,messen,maß,gemessen
-to take,nehmen,nahm,genommen
-to praise,preisen,pries,gepriesen
-to advise,raten,riet,geraten
-to rub,reiben,rieb,gerieben
-"to rip, to tear",reißen,riss,gerissen
-to ride (a horse),reiten,ritt,geritten
-to run,rennen,rannte,gerannt
-to smell,riechen,roch,gerochen
-"to call, to cry out",rufen,rief,gerufen
-to create,schaffen,schuf,geschaffen
-to sleep,schalfen,schlief,geschlafen
-"to hit, to beat",schalgen,schlug,geschalgen
-"to seem, to shine",scheinen,schien,geschienen
-to shoot,schießen,schoss,geschossen
-"to close, to shut",schließen,schloss,geschlossen
-to fling,schmeißen,schmiss,geschmissen
-to melt,schmelzen,schmolz,geschmolzen
-to cut,schneiden,schnitt,geschnitten
-to write,schreiben,schrieb,geschrieben
-"to scream, to shout",schreien,schrie,geschrien
-to stride,schreiten,schritt,geschritten
-to be silent,schweigen,schwieg,geschwiegen
-to swim,schwimmen,schwamm,geschwommen
-to swear,schwören,schwor,geschworen
-to see,sehen,sah,gesehen
-to be,sein,war,gewesen
-to send,senden,sandte,gesandt
-"to push, to shove",shieben,schob,geschoben
-to sing,singen,sang,gesungen
-to sink,sinken,sank,gesunken
-to sit,sitzen,saß,gesessen
-to speak,sprechen,sprach,gesprochen
-to jump,springen,sprang,gesprungen
-to stand,stehen,stand,gestanden
-to steal,stehlen,stahl,gestohlen
-to climb,steigen,stieg,gestiegen
-to die,sterben,starb,gestorben
-to stink,stinken,stank,gestunken
-"to bump, to push",stoßen,stieß,gestoßen
-to stroke,streichen,strich,gestrichen
-to quarrel,streiten,stritt,gestritten
-"to carry, to wear",tragen,trug,getragen
-to meet,treffen,traf,getroffen
-to step,treten,tritt,getreten
-to drink,trinken,trank,getrunken
-to do,tun,tat,getan
-to ruin,verderben,verdarb,verdorben
-to forget,vergessen,vergaß,vergessen
-to lose,verlieren,verlor,verloren
-to excuse,verzeihen,verzieh,verziehen
-to grow,wachsen,wuchs,gewachsen
-to wash,waschen,wusch,gewaschen
-to turn,wenden,wandte,gewandt
-to become,werden,wurde,geworden
-to throw,werfen,warf,geworfen
-to weigh,wiegen,wog,gewogen
-to wind,winden,wand,gewunden
-to know,wissen,wusste,gewusst
-to pull,ziehen,zog,gezogen
-to force,zwingen,zwang,gezwungen
+Meaning,Sentence
+I can swim.,Ich kan schwimmen.
+Can you fly?,Kannst du fliegen?
+He can speak English well.,Er kann gut Englisch (sprechen).
+We already know (can say) the poem by heart.,Wir können das Gedicht auswendig (sagen).
+It can't be true.,Es kann nicht wahr sein.
+You can (are welcome to) do it.,Du kannst das machen.
+Can't you come?,Könnt ihr nicht kommen?
+They might know it.,Sie können das wissen.
+Can you play chess?,Kannst du Schach (spielen)?
+May I go?,Darf ich gehen?
+He may do anything.,Er darf alles machen.
+We musn't smoke here.,Wir dürfen hier nicht rauchen.
+I musn't do it.,Ich darf es nicht (machen).
+You must / have to drink a lot of water.,Du musst viel Wasser trinken.
+We had to write a couple of letters.,Wir mussten einige Briefe schreiben.
+Is it necessary?,Muss das sein?
+You don't have to speak so quietly.,Ihr müsst nicht so leise sprechen.
+This must cost a lot.,Das muss viel kosten.
+I don't have to do it at all.,Das muss ich gar nicht (machen).
+I must (go to) see a doctor.,Ich muss zum Arzt (gehen).
+We like music.,Wir mögen Musik.
+I don't like meat.,Ich mag kein Fleisch.
+Do you like me?,Magst du mich?
+It may be too late.,Es mag zu spät sein.
+This may be true.,Das mag wahr sein.
+"I'd like to know it, too.",Ich möchte es auch wissen.
+Would you like to see something?,Möchtest du etwas sehen?
+You should eat everything.,Du sollst alles essen.
+We should stay here.,Wir sollen hier bleiben.
+He should come soon.,Er soll bald kommen.
+Is it supposed to be a joke?,Soll das ein Witz sein?
+This should work.,Das soll funktionieren.
+Shall we go now?,Sollen wir jetzt gehen?
+I should (go to) see a doctor.,Ich soll zum Arzt (gehen).
