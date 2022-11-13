@@ -58,8 +58,10 @@ function addCardtoDeck(container, content) {
 
   var string = "";
   for(const key in content) {
-    if(key !== "Meaning"){
-      string += content[key] + "<br>";
+    if(key !== "Meaning" && content[key] != ""){
+      if(key == "Article") string += content[key] + " ";
+      else if(key == "Plural") string += "die " + content[key] + "<br>";
+      else string += content[key] + "<br>";
     }
   }
 
