@@ -1,273 +1,109 @@
-Date,Article,Word,Plural,Meaning,Sentence
-2022-09-21,das,Wort,Wörter,word,Ich kenne dieses Wort nicht
-2022-09-21,die,Antwort,Antworten,answer,
-2022-09-21,die ,Frage,Fragen,question,
-2022-09-21,die ,Bedeutung,Bedeutungen,meaning,Was bedeutet dieses Wort
-2022-09-21,die,Kartoffel,Kartoffeln,potato,
-2022-09-21,das,Kartoffelpüree,Kartoffelpüree,mashed potatoes,
-,,,,,
-2022-09-22,der,Tisch,Tische,table,
-2022-09-22,der,Löffel,Löffel,spoon,
-2022-09-22,die,Gabel,Gabeln,fork,
-2022-09-22,das,Messer,Messer,knife,
-2022-09-22,das,Fenster,Fenster,window,
-2022-09-22,das,Gemüse,Gemüse,vegetable,
-2022-09-22,der,Reis,,rice,
-2022-09-22,der ,Spaß,,fun,Viel Spaß im Unterricht!
-,,,,,
-2022-09-25,der,Regen,,rain,
-2022-09-25,der,Schnee,,snow,
-2022-09-25,der,Hagel,,hail,
-2022-09-25,es,regnet,,it's raining,Es regnet stark
-2022-09-25,es,schneit,,it's snowing,
-2022-09-25,es,hagelt,,it's hailing,
-2022-09-25,,klug,,smart,
-2022-09-25,das,Holz,,wood,
-,,,,,
-2022-09-26,das,Fahrrad,Fahrräder,bicycle,
-2022-09-26,das,Motorrad,Motorräder,motorcycle,
-2022-09-26,das,Auto,Autos,car,
-2022-09-26,der,Sportwagen,Sportwagen,sports car,
-2022-09-26,der,Bus,Busse,bus,
-2022-09-26,der,Zug,Züge,train,
-2022-09-26,die,U-Bahn,U-Bahnen,subway,
-,,,,,
-2022-09-28,der,Stecker,Stecker,plug,
-2022-09-28,der,Baum,Bäumer,tree,
-2022-09-28,die,Wurzel,Wurzeln,root,
-2022-09-28,die,Pflanze,Pflanzen,plant,
-2022-09-28,die,Frucht,Früchte,fruit,
-2022-09-28,das,Blatt,Blätter,leaf,
-2022-09-28,das,Gras,Gräser,grass,
-2022-09-28,das,Papier,Papiere,paper,
-,,,,,
-2022-09-29,die,Flascher,Flaschen,bottle,
-2022-09-29,die,Maske,Masken,mask,
-2022-09-29,der,Geldbeutel,Geldbösen,purse,
-2022-09-29,der,Teppich,Teppiche,carpet,
-2022-09-29,,springen,,to jump,
-2022-09-29,,liegen,,to lie,
-,,,,,
-2022-09-30,die,Pfütze,Pfützen,puddle,
-2022-09-30,der,Teich,Teiche,pond,
-2022-09-30,der,See,Seen,lake,
-2022-09-30,der,Fluss,Flüsse,river,
-2022-09-30,der,Strand,Strände,beach,
-2022-09-30,das,Meer,Meere,sea,
-,,,,,
-2022-10-01,die,Liebe,,love,
-2022-10-01,das,Leben,,life,
-2022-10-01,das,Lachen,,laughter,
-2022-10-01,das,Lächeln,,smile,
-2022-10-01,,,,,Warum sagst du das?
-,,,,,
-2022-10-03,das,Problem,Probleme,problem,
-2022-10-03,die,Wohnung,Wohnungen,apartment,
-2022-10-03,der,Aufzug,Aufzüge,elevator,
-2022-10-03,,sauber,,clean,
-2022-10-03,,dreckig,,dirty,
-2022-10-03,,putzen,,to clean,
-2022-10-03,,wichtig,,important,
-,,,,,
-2022-10-04,,gerade,,just,
-,,,,,
-2022-10-06,,genesan,,recover,
-2022-10-06,der,Wunsch,Wünsche,wishes,
-,,,,,
-2022-10-07,,rauchen,,to smoke,
-2022-10-07,,tief,,deep,
-2022-10-07,die,Tomate,Tomaten,tomato,
-2022-10-07,die,Wolke,Wolken,cloud,
-2022-10-07,die,Welt,,world,
-2022-10-07,der,Himmel,,heaven,
-,,,,,
-2022-10-08,der,Trockner,Trockner,drier,
-2022-10-08,,trocken,,dry,
-2022-10-08,,nass,,wet,
-2022-10-08,,glatt,,smooth,
-2022-10-08,,rau,,rough,
-2022-10-08,das,Wunder,Wunder,miracle,
-2022-10-08,das,Museum,Museen,museum,
-2022-10-08,die,Sporthalle,Sporthallen,sports hall,
-2022-10-08,,forsichtig,,careful,Forsichtig sein!
-2022-10-08,das,Geld,,money,
-2022-10-08,die,Geduld,,patience,
-2022-10-08,,aufwachen,,wake up,
-2022-10-08,,normalerweise,,normally,
-2022-10-08,,alles klar,,understood,
-2022-10-08,,brauchen,,to need,
-,,,,,
-2022-10-09,,oder,,right?,"Du bist 7 Jahre alt, oder?"
-2022-10-09,,passieren,,happen,
-2022-10-09,das,Ding,Dinge,thing,
-2022-10-09,das,Amt,Ämter,office,
-2022-10-09,die,Stadt,Städte,city,
-,,,,,
-2022-10-10,,hart,,hard,
-2022-10-10,,weich,,soft,
-,,,,,
-2022-10-11,,fleißig,,hardworking,
-2022-10-11,,miauen,,to meow,
-2022-10-11,,bellen,,to bark,
-2022-10-11,,flach,,flat,
-2022-10-11,,rund,,round,
-2022-10-11,,leer,,empty,
-2022-10-11,,schmutzig,,dirty,
-2022-10-11,,sauer,,sour,
-2022-10-11,,süß,,sweet,
-2022-10-11,,salzig,,salty,
-2022-10-11,,bitter,,bitter,
-,,,,,
-2022-10-12,,kämpfen,,to fight,
-2022-10-12,,gewinnen,,win,
-2022-10-12,,verlieren,,to lose,
-2022-10-12,der,Dieb,Diebe,thief,
-,,,,,
-2022-10-13,,benutzen,,to use,
-2022-10-13,,halten,,to hold/keep,
-,,,,,
-2022-10-14,,versuchen,,to try,Ich werde es versuchen
-,,,,,
-2022-10-15,der,Sänger,Sänger,singer,
-2022-10-15,der,Brief,Briefe,letter,
-2022-10-15,der,Roman,Romane,novel,
-2022-10-15,der,Mantel,Mäntel,coat,
-2022-10-15,der,Rock,Röcke,skirt,
-2022-10-15,der,Wagen,Wagen,car,
-2022-10-15,die,Fliege,Fliegen,fly,
-2022-10-15,die,Kutsche,Kutschen,coach,
-2022-10-15,die,Bluse,Blusen,blouse,
-2022-10-15,die,Vase,Vasen,vase,
-2022-10-15,die,Briefmarke,Briefmarken,stamp,
-2022-10-15,das,Lied,Lieder,song,
-,,,,,
-2022-10-16,der,Stein,Steiner,stone,
-2022-10-16,der,Fehler,Fehler,mistake,
-2022-10-16,der,Kuchen,Kuchen,cake,
-2022-10-16,der,Käser,Käser,cheese,
-2022-10-16,der,Urlaub,,holiday,
-2022-10-16,die,Sache,Sachen,thing,
-2022-10-16,,hoffen,,hope,Ich hoffe das ist okay.
-2022-10-16,die,Münze,Münzen,coin,
-2022-10-16,die,Mütze,Mützen,cap,
-2022-10-16,die,Brille,,spectacles,
-2022-10-16,das,Brett,Bretter,board,
-2022-10-16,der,Krieg,Kriege,war,
-2022-10-16,,Mittag,,noon,
-2022-10-16,,Mitternacht,,midnight,
-,,,,,
-2022-10-17,das,Fleisch,Fleisch,meat,Ich esse gerne Fleisch
-2022-10-17,das,Feuer,Feuer,fire,
-2022-10-17,das,Zentrum,Zentren,center,
-2022-10-17,der,Unfall,Unfalle,accident,
-2022-10-17,die,Sonne,Sonnen,sun,
-2022-10-17,der,Himmel,Himmel,sky,
-2022-10-17,das,Stück,Stücke,piece,
-2022-10-17,,allein,,alone,
-2022-10-17,,natürlich,,of course,
-2022-10-17,,mal,,times,Ich esse zweimal
-,,,,,
-2022-10-18,,ordnen,,to arrange,
-2022-10-18,,leugnen,,to deny,
-2022-10-18,,begegnen,,to encounter,
-2022-10-18,,kitzeln,,to tickle,
-2022-10-18,,streicheln,,to stroke,
-2022-10-18,,pinkeln,,to pee,
-2022-10-18,,verbessern,,to improve,
-2022-10-18,,besser,,better,
-2022-10-18,,beste,,best,
-2022-10-18,,leise,,quietly,
-2022-10-18,,weich,,soft,
-2022-10-18,,hart,,hard,
-2022-10-18,das,Schwein,Schweine,pig,
-2022-10-18,die,Ziege,Ziegen,goat,
-,,,,,
-2022-10-19,das,Schloss,Schlosser,castle,
-2022-10-19,die,Übung,,practice,
-2022-10-19,,üben,,to practice,
-2022-10-19,,energish,,energetic,
-,,,,,
-2022-10-22,,gleich,,same,
-2022-10-22,,toll,,great,
-,,,,,
-2022-10-27,das,Schiff,Schiffe,ship,
-2022-10-27,das,Kaninchen,Kaninchen,rabbit,
-2022-10-27,das,Nilpferd,Nilpferde,hippo,
-2022-10-27,der,Ritter,Ritter,knight,
-2022-10-27,der,Teller,Teller,plate,
-2022-10-27,der,Kerl,Jungs,guys,
-2022-10-27,der,Soldat,Soldaten,soldier,
-2022-10-27,der,Regenschirm,Regenshirme,umbrella,
-2022-10-27,der,Löwe,Löwen,lion,
-2022-10-27,der,Tiger,Tiger,tiger,
-2022-10-27,der,Koffer,Koffer,suitcase,
-2022-10-27,die,Lokomotive,Lokomotiven,locomotive,
-2022-10-27,die,Flamme,Flammen,flame,
-2022-10-27,die,Rose,Rosen,rose,
-,,,,,
-2022-10-28,,früh,,early,
-,,,,,
-2022-11-03,,lustig,,funny,
-2022-11-03,,alles,,everything,
-2022-11-03,,nichts,,anything,
-2022-11-03,,erledigen,,to take care of,
-2022-11-03,,mindestens,,at least,
-,,,,,
-2022-11-06,,probieren,,to try,
-2022-11-06,,toll,,great,
-,,,,,
-2022-11-11,,stimmt,,right,Stimmt es?
-2022-11-11,,gesund,,healthy,Essen wir gesund
-,,,,,
-2022-11-13,das,Hemd,Hemden,shirt,
-2022-11-13,die,Hose,,pants,
-2022-11-13,die,Lüft,,the air,
-2022-11-13,der,Wind,Winde,wind,
-2022-11-13,der,Handball,,handball,
-2022-11-13,der,Tänzerin,Tänzerinnen,dancer,
-2022-11-13,das,Klavier,Klaviere,piano,
-2022-11-13,das,Herz,Herzen,heart,
-2022-11-13,,schlagen (Herz),,to beat (heart),
-2022-11-13,,spüren,,"to sense, to feel",
-2022-11-13,,bewegten,,to move,
-2022-11-13,,wehen,,to blow,
-2022-11-13,,zittern,,to tremble,
-2022-11-13,,zischen,,to hiss,
-2022-11-13,,höchstens,,at most,
-2022-11-13,,lieblings-,,favorite-,
-,,,,,
-2022-11-18,der,Selbstmord,Selbstmorde,suicide,
-2022-11-18,die,Kneipe,Kneipen,"bar, inn",
-2022-11-18,der,Plan,Planne,plan,
-2022-11-18,die,Mauer,Mauern,wall,
-2022-11-18,das,Vertrauen,,trust,
-2022-11-18,die,Möbel,,piece of furniture,
-,,,,,
-2022-11-19,,vermissen,,to miss (a person),Vermisst du mich?
-2022-11-19,,verfehlen,,to miss (a target),
-2022-11-19,das,Ziel,Ziele,"target, goal",
-2022-11-19,,verloren,,lost,
-2022-11-19,,denn,,there,Was gibt es denn?
-2022-11-19,die,Ananas,Ananas,pineapple,
-2022-11-19,der,Schinken,,ham,
-2022-11-19,,ohne,,without,
-2022-11-19,,prost,,cheers,
-,,,,,
-2022-11-22,die,Prüfung,Prüfungen,exam,
-,,,,,
-2022-11-23,die,Nudel,Nudeln,noodle,
-2022-11-23,die,Sorge,Sorgen,worry,Mach dir keine Sorgen!
-,,,,,
-2022-11-27,der,Wissenschaftler,Wissenschaftlerin,scientist,
-2022-11-27,der,Bürgermeister,Bürgermeisterin,mayor,
-2022-11-27,der,Lügner,Lügnerin,liar,
-2022-11-27,der,Schuh,Schuhe,shoe,
-2022-11-27,der,Handschuh,Handschuhe,glove,
-2022-11-27,,wegen,,because of/due to,Ist es wegen mir?
-2022-11-27,,gegen,,vs,Spanien gegen Deutschland
-,,,,,
-2022-11-28,die,Hilfe,,help,
-,,,,,
-2022-11-30,die ,Frieden,,peace,
-2022-11-30,,zufrieden,,to be satsfied,Bist du mit deinen Noten zufrieden?
-2022-11-30,die ,Note,,grade,
+Meaning,Present,Past,PastParticiple
+to bake,backen,backte,gebacken
+to command,befehlen,befahl,befohlen
+to begin,beginnen,begann,begonnen
+to bite,beißen,biss,gebissen
+to offer,bieten,bot,geboten
+to bind,binden,band,gebunden
+to request,bitten,bat,gebeten
+to blow,blasen,blies,geblasen
+to stay,bleiben,blieb,geblieben
+to fry,braten,briet,gebraten
+to break,brechen,brach,gebrochen
+to burn,brennen,brannte,gebrannt
+to bring,bringen,brachte,gebracht
+to think,denken,dachte,gedacht
+to recommend,empfehlen,empfahl,empfohlen
+to be startled,erschrecken,erschrak,erschrocken
+to eat,essen,aß,gegessen
+"to drive, to go",fahren,fuhr,gefahren
+to fall,fallen,fiel,gefallen
+to find,finden,fand,gefunden
+to fly,fliegen,flog,geflogen
+to flee,fliehen,floh,geflohen
+to flow,fließen,floss,geflossen
+to eat (of animals),fressen,fraß,gefressen
+to freeze,frieren,fror,gefroren
+to give birth,gebären,gebar,geboren
+to give,geben,gab,gegeben
+"to walk, to go",gehen,ging,gegangen
+to enjoy,genießen,genoss,genossen
+to occur,geschehen,geschah,geschehen
+to win,gewinnen,gewann,gewonnen
+to pour,gießen,goss,gegossen
+to dig,graben,grub,gegraben
+to seize,greifen,griff,gegriffen
+to have,haben,hatte,gehabt
+to hold,halten,hielt,gehalten
+to be hanging,hängen,hing,gehangen
+to lift,heben,hob,gehoben
+to be called,heißen,hieß,geheißen
+to help,helfen,half,geholfen
+to know,kennen,kannte,gekannt
+to sound,klingen,klang,geklungen
+to come,kommen,kam,gekommen
+to load,laden,lud,geladen
+to let,lassen,ließ,gelassen
+to tell a lie,lügen,log,gelogen
+to avoid,meiden,mied,gemieden
+to measure,messen,maß,gemessen
+to take,nehmen,nahm,genommen
+to praise,preisen,pries,gepriesen
+to advise,raten,riet,geraten
+to rub,reiben,rieb,gerieben
+"to rip, to tear",reißen,riss,gerissen
+to ride (a horse),reiten,ritt,geritten
+to run,rennen,rannte,gerannt
+to smell,riechen,roch,gerochen
+"to call, to cry out",rufen,rief,gerufen
+to create,schaffen,schuf,geschaffen
+to sleep,schalfen,schlief,geschlafen
+"to hit, to beat",schalgen,schlug,geschalgen
+"to seem, to shine",scheinen,schien,geschienen
+to shoot,schießen,schoss,geschossen
+"to close, to shut",schließen,schloss,geschlossen
+to fling,schmeißen,schmiss,geschmissen
+to melt,schmelzen,schmolz,geschmolzen
+to cut,schneiden,schnitt,geschnitten
+to write,schreiben,schrieb,geschrieben
+"to scream, to shout",schreien,schrie,geschrien
+to stride,schreiten,schritt,geschritten
+to be silent,schweigen,schwieg,geschwiegen
+to swim,schwimmen,schwamm,geschwommen
+to swear,schwören,schwor,geschworen
+to see,sehen,sah,gesehen
+to be,sein,war,gewesen
+to send,senden,sandte,gesandt
+"to push, to shove",shieben,schob,geschoben
+to sing,singen,sang,gesungen
+to sink,sinken,sank,gesunken
+to sit,sitzen,saß,gesessen
+to speak,sprechen,sprach,gesprochen
+to jump,springen,sprang,gesprungen
+to stand,stehen,stand,gestanden
+to steal,stehlen,stahl,gestohlen
+to climb,steigen,stieg,gestiegen
+to die,sterben,starb,gestorben
+to stink,stinken,stank,gestunken
+"to bump, to push",stoßen,stieß,gestoßen
+to stroke,streichen,strich,gestrichen
+to quarrel,streiten,stritt,gestritten
+"to carry, to wear",tragen,trug,getragen
+to meet,treffen,traf,getroffen
+to step,treten,tritt,getreten
+to drink,trinken,trank,getrunken
+to do,tun,tat,getan
+to ruin,verderben,verdarb,verdorben
+to forget,vergessen,vergaß,vergessen
+to lose,verlieren,verlor,verloren
+to excuse,verzeihen,verzieh,verziehen
+to grow,wachsen,wuchs,gewachsen
+to wash,waschen,wusch,gewaschen
+to turn,wenden,wandte,gewandt
+to become,werden,wurde,geworden
+to throw,werfen,warf,geworfen
+to weigh,wiegen,wog,gewogen
+to wind,winden,wand,gewunden
+to know,wissen,wusste,gewusst
+to pull,ziehen,zog,gezogen
+to force,zwingen,zwang,gezwungen
